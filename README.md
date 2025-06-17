@@ -56,4 +56,4 @@ python app.py
 - crewAI
 - Tailwind CSS
 - OpenAI API
-- DuckDuckGo Search API 
+- DuckDuckGo Search API # dateplanner
